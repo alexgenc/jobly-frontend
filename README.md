@@ -56,6 +56,6 @@ Please let me know if you find any bugs!
 
 Project Links:
 
-[Live Demo](https://alexgenc-jobly.netlify.app/#/)
-[Frontend Repo](https://github.com/alexgenc/jobly-frontend)
-[Backend Repo](https://github.com/alexgenc/jobly-backend)
+- [Live Demo](https://alexgenc-jobly.netlify.app/#/)
+- [Frontend Repo](https://github.com/alexgenc/jobly-frontend)
+- [Backend Repo](https://github.com/alexgenc/jobly-backend)
