@@ -6,7 +6,11 @@ Jobly is a full stack job search web application. This repo contains the react f
 
 The main focus of this project was building a large size single page React app using React Hooks.
 
-Live Demo: https://harmonious-turkey.surge.sh/
+[Live Demo](https://alexgenc-jobly.netlify.app/#/)
+
+Demo User Account:
+- username: testuser
+- password: password
 
 ![blogly.jpg](https://i.postimg.cc/k5g3LH37/Jobly.jpg)
 
@@ -43,3 +47,15 @@ jobly/
 ├── profiles
 ├── routes-nav
 ```
+
+## Contact
+
+Alex Genc - alexgenc@gmail.com - Linkedin
+
+Please let me know if you find any bugs!
+
+Project Links:
+
+[Live Demo](https://alexgenc-jobly.netlify.app/#/)
+[Frontend Repo](https://github.com/alexgenc/jobly-frontend)
+[Backend Repo](https://github.com/alexgenc/jobly-backend)
